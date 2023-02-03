@@ -1,0 +1,13 @@
+import java.io.*;
+class {
+        public static void main(String args[]){
+                Console con=System.console();
+		int  = Integer.parseInt(con.readLine());
+	
+		
+
+
+
+
+}
+}
